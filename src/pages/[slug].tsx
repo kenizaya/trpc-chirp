@@ -11,7 +11,7 @@ const ProfilePage: NextPage = () => {
       </Head>
       <main className="flex h-screen justify-center">
         <div className="h-full w-full border-x border-slate-400 md:max-w-2xl">
-          Profile View
+          Profile
         </div>
       </main>
     </>
